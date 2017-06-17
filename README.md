@@ -5,3 +5,6 @@
 
 ![image](https://github.com/jingkegit/TabRecyclerView/blob/master/app/src/main/res/gif/add_remove.gif) 
 
+
+![image](https://github.com/jingkegit/TabRecyclerView/blob/master/app/src/main/res/gif/update.gif) 
+
