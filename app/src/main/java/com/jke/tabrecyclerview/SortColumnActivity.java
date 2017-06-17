@@ -88,6 +88,12 @@ public class SortColumnActivity extends AppCompatActivity implements View.OnClic
     }
 
     @Override
+    public void finish() {
+        super.finish();
+        this.overridePendingTransition(0,R.anim.anim_top_out);
+    }
+
+    @Override
     public void remove(int pos) {
         String title = olds.get(pos);
         old_adapter.removeData(pos);
